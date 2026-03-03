@@ -13,6 +13,6 @@ p {
 
 html, body {
 height: 100%;
-	background-color: var(--dark-blue); 
+	background-color: dark-blue; 
 }
 	 
