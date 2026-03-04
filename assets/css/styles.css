@@ -11,7 +11,8 @@ p {
 }
 
 
-h2 {
+html, body {
+	height: 100%;
 	background-color: darkblue;
    }
 
